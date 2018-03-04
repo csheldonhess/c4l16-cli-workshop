@@ -18,3 +18,7 @@ We welcome you to work through any of the exercises that seem interesting to you
 
 This workshop and all of the materials in it are [sharable and reusable with attribution](https://creativecommons.org/licenses/by/2.0/) (CC-BY). 
 
+## Note for people who would like to run this workshop
+
+Nitrous isn't a thing anymore. There's at least one [adapted version of this workshop](https://github.com/prototypepgh/prototype-cli-workshop) using PythonAnywhere instead of Nitrous, if you'd like to see how that changes things. (Short version: the file structure is a little different, and `wget` doesn't work on bit.ly links.)
+
